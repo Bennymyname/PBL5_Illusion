@@ -33,19 +33,19 @@ The experiment involves showing participants both grayscale and colored patterns
 
 ### Detailed File Descriptions
 
-#### 4colorcombination/4colors.py
+#### - 4colorcombination/4colors.py
 Generates and displays motion illusion patterns using four different colors. This script is used to run the experiment and collect data on how different color combinations affect the perception of motion illusions.
 
-#### DisplayColorBlock/displaycolorLab.py
+#### - DisplayColorBlock/displaycolorLab.py
 Converts RGB colors to CIELab color space and visualizes the results, to measure the actual luminance on display.
 
-#### DisplayColorBlock/displaycolorRGB.py
+#### - DisplayColorBlock/displaycolorRGB.py
 Visualizes the RGB values of different colors used in the experiment, to measure the actual luminance on display.
 
-#### SamedifferenceLevel/Color_samedifference/Color_fixeddifferenceLevel.py
+#### - SamedifferenceLevel/Color_samedifference/Color_fixeddifferenceLevel.py
 Conducts experiments with fixed actual luminance differences in different color. 
 
-#### SamedifferenceLevel/Gray_samedifference/Gray_fixeddifferenceLevel.py
+#### - SamedifferenceLevel/Gray_samedifference/Gray_fixeddifferenceLevel.py
 Conducts experiments with fixed actual luminance differences in grayscale levels.
 
 ## Getting Started
